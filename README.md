@@ -1,10 +1,10 @@
-# AEM/CQ Instance creator
+# [AEM/CQ](http://docs.adobe.com/docs/en/aem/6-0.html) Instance creator
 A basic applescript to quickly create AEM instances
 
 I got tired of recreating different instances of AEM, so I decided to make this basic applescript that allows for you to auto create an AEM instance structure. I
 
 ##Inputs
-* instance creator script **...applescript to run**
+* instance-creator.scpt **...applescript to run**
 * license.properties **...license file for AEM, you need to supply this. :)**
 * Content Packages folder
   * Use this folder to store any common content packages you want your instances to start with. Ex service packs, [AEM commons](http://adobe-consulting-services.github.io/acs-aem-commons/), [Sightly REPL tool](https://github.com/Adobe-Marketing-Cloud/aem-sightly-repl), project based packages, etc
