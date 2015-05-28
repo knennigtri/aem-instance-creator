@@ -1,0 +1,3 @@
+-- Use this folder for all the 
+-- content packages you want to 
+-- initially install

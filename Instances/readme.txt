@@ -1,0 +1,2 @@
+-- Use this folder to store
+-- different instances of AEM
