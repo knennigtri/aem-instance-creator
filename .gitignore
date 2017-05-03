@@ -1,4 +1,4 @@
-.DS_Store
-.jar
-.zip
-.properties
+*.DS_Store
+*.jar
+*.zip
+*.properties
